@@ -1,8 +1,8 @@
 
-<a href="https://youtu.be/F8UQMePob-o" rel="nofollow">
+
 <img src="https://github.com/efegorkemumit/coffepub/blob/master/public/images/coffepub.png"
  style="max-width: 100%;">
-</a>
+
 
 <div></div>
 
