@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/ersozberk/coffee-store-web/blob/master/public/images/coffepub.png"
+<img src="https://github.com/ersozberk/coffee-store-web/blob/main/public/images/coffepub.png"
  style="max-width: 100%;">
 
 
