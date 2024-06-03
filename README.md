@@ -11,7 +11,7 @@
 <img src="https://efegorkemumit.github.io/assets/img/iconss/github.png" style="max-width: 10%;">
 </a>
 
-<a href="https://www.linkedin.com/in/berkresoz7/" rel="nofollow">
+<a href="https://www.linkedin.com/in/berkersoz7/" rel="nofollow">
 <img src="https://efegorkemumit.github.io/assets/img/iconss/linkedin.png" style="max-width: 10%;">
 </a>
 
